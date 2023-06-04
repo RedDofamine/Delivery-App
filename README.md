@@ -18,9 +18,16 @@ For the correct operation of the application, the following dependencies must be
 
 Installing the project includes the following steps:
 
+Clone repo
 ```sh
 git clone https://github.com/RedDofamine/Delivery-App.git
+```
+Open folder with application
+```sh
 cd Delivery-App/server
+```
+Install application dependencies
+```sh
 npm install
 ```
 
